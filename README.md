@@ -2,7 +2,7 @@ Parking Enforcement Simulator
 
 A robust Java-based system designed to simulate parking management and enforcement logic. This project demonstrates advanced Object-Oriented Programming (OOP) principles through the interaction of multiple complex entities and business rules.
 
-![Supermercado](images/supermercado.png)
+![Parking Ticket](parking-enforcement-system/parkingTicket.png)
 
 ***Key Features**
 **Vehicle Management:* Tracks vehicle entry, exit, and identification.
